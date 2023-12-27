@@ -11,9 +11,9 @@ title                    : "Debabrata Auddya"
 title_separator          : "-"
 name                     : &name "Debabrata Auddya"
 description              : &description "PhD Student, University of Wisconsin-Madison"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://auddya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "auddya/auddya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Debabrata Auddya"
+  avatar           : "Auddya_Debabrata_03.jpg"
+  bio              : "Biomechanics, Mathematical Modeling, Finite Element Method"
+  location         : "Madison, WI"
+  employer         : "University of Wisconsin-Madison"
+  googlescholar    : "https://scholar.google.com/citations?user=A_ARaA4AAAAJ&hl=en&oi=ao"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "auddya"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,10 +103,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/AuddyaDebabrata"
   vine             :
   weibo            :
   xing             :
