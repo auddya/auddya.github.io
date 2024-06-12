@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Mechanical Engineering, University of Wisconsin-Madison, 2024 (expected)
+* M.S. in Mechanical Engineering, University of Wisconsin-Madison, 2020 
+* B.Tech. in Mechanical Engineering, National Institute of Technology Durgapur, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018 - present: Graduate Research Assistant
+  * University of Wisconsin-Madison
+  * Mechano-chemical  modeling of secondary injury in Traumatic Brain Injury. (deal.II)
+  * Mechanics and microstructure identification and modeling in brain injury. (deal.II) 
+  * Kirchhoff-Love thin shell modeling of biomembranes. (PetIGA)
+  * Analytical modeling of instabilities in metal additive manufacturing.
+  * Supervisor: Professor Shiva Rudraraju
+  
+* Fall 2015 - Spring 2017: Research Assistant
+  * Oakland University
+  * Mechanotransduction in growing cell colonies, Mechanical bidomain model.
+  * Supervisor: Emeritus Professor Brad Roth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Research Intern
+  * University of Liege, Belgium
+  * Computational modeling of 3D bioprinting processes using hyperelastic constitutive models. 
+  * Supervisor: Professor Liesbet Geris
   
 Skills
 ======
@@ -53,7 +61,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

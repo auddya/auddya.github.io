@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Debabrata Auddya"
 title_separator          : "-"
 name                     : &name "Debabrata Auddya"
-description              : &description "PhD Student, University of Wisconsin-Madison"
+description              : &description "Postdoctoral Research Associate, University of Delaware"
 url                      : https://auddya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "auddya/auddya.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Debabrata Auddya"
   avatar           : "Auddya_Debabrata_03.jpg"
-  bio              : "Biomechanics, Mathematical Modeling, Finite Element Method"
-  location         : "Madison, WI"
-  employer         : "University of Wisconsin-Madison"
+  bio              : "Computational Biomechanics, Mathematical Modeling, Finite Element Method"
+  location         : "Newark, Delaware, USA"
+  employer         : "University of Delaware"
   googlescholar    : "https://scholar.google.com/citations?user=A_ARaA4AAAAJ&hl=en&oi=ao"
-  email            : 
+  email            : "debabrata.auddya.nitd@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
