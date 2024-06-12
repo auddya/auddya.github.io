@@ -7,13 +7,13 @@ main:
     url: /files/Resume.pdf
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+
+  - title: "Research"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Conference Activities"
-    url: /portfolio/
     
   - title: "Extras"
     url: /extras/
