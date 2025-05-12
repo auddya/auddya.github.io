@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
 <!-- ---
 layout: archive
 title: "Awards"
@@ -11,13 +17,6 @@ author_profile: true
 4. Chester E. & Flora Jane LeRoy Fellowship Award, Department of Mechanical Engineering, UW Madison (2018-2019)
 
 -->
-
----
-layout: archive
-title: "Awards"
-permalink: /awards/
-author_profile: true
----
 
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
