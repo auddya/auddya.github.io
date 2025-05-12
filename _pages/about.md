@@ -17,7 +17,7 @@ I completed my doctoral studies from the University of Wisconsin-Madison at the 
 
 ## Education 
 
-1. PhD, Mechanical Engineering, University of Wisconsin-Madison (2024)
+1. PhD, Major: Mechanical Engineering & Minor: Mathematics,  University of Wisconsin-Madison (2024)
 2. MS, Mechanical Engineering, University of Wisconsin-Madison (2020)
 3. BTech, Mechanical Engineering, National Institute of Technology, Durgapur, India (2017)
 
@@ -25,6 +25,6 @@ I completed my doctoral studies from the University of Wisconsin-Madison at the 
 
 1. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison, (September 2023) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards-1)
 2. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison, (September 2022) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards)
-3. 16th U S National Congress on Computational Mechanics Conference Award ,Virtual Conference (July 2021)
+3. 16th U S National Congress on Computational Mechanics Conference Award , Virtual Conference (July 2021)
 4. Chester E. & Flora Jane LeRoy Fellowship Award, Department of Mechanical Engineering, UW Madison (2018-2019)
  
