@@ -9,11 +9,5 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Research"
-    url: /portfolio/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Extras"
-    url: /extras/
+  - title: "Awards"
+    url: /awards/
