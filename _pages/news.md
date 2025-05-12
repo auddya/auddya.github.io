@@ -1,6 +1,6 @@
 layout: archive
-title: "Team"
-permalink: /team/
+title: "News"
+permalink: /news/
 author_profile: true
 redirect_from:
   - /wordpress/cv/
