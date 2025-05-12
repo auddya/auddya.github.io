@@ -17,9 +17,9 @@ I completed my doctoral studies from the University of Wisconsin-Madison at the 
 
 ## Education 
 
-1. PhD, Major: Mechanical Engineering & Minor: Mathematics,  University of Wisconsin-Madison (2024)
-2. MS, Mechanical Engineering, University of Wisconsin-Madison (2020)
-3. BTech, Mechanical Engineering, National Institute of Technology, Durgapur, India (2017)
+- PhD, Major: Mechanical Engineering & Minor: Mathematics,  University of Wisconsin-Madison (2024)
+- MS, Mechanical Engineering, University of Wisconsin-Madison (2020)
+- BTech, Mechanical Engineering, National Institute of Technology, Durgapur, India (2017)
 
 ## Awards 
 
