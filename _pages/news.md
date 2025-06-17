@@ -19,7 +19,7 @@ author_profile: true
 - May 2025: Selected for a poster presentation at ISSLS 2025 held at Atlanta, GA. 
 - April 2025: Presented at <a href="https://dcmr.udel.edu/research-symposium/" style="color:blue;">DCMR/CBER Symposium</a> at University of Delaware, Newark, DE. 
 - June 2024: Selected for Mathematical Problems in Industry (MPI) workshop held at University of Vermont, Burlington, VT. <a href="https://www.siam.org/media/r1pj5uqx/vironix_mpi2024.pdf" style="color:blue;">Final report</a> is out now!
-- June 2024: Selected for Graduate Student Mathematical Modeling Camp (GSMMC) held at University of Delaware, Newark, DE. <a href="https://www1.udel.edu/dedwards/camp/reports/24Colon.pdf" style="color:blue;">Final report</a> is out now!
+- June 2024: Selected for Graduate Student Mathematical Modeling Camp (GSMMC) held at University of Delaware, Newark, DE. <a href="https://www1.udel.edu/dedwards/camp/reports/24Colon.pdf" style="color:blue;">Final report</a>.
 - May 2024: <a href="https://sites.udel.edu/elliott/people/research-staff/auddya" style="color:blue;">Joined</a> at University of Delaware under Blue and Gold Distinguished Prof. Dawn Elliott, PI of <a href="https://sites.udel.edu/elliott/" style="color:blue;">Multi-Scale Fiber-Reinforced Tissue Biomechanics Laboratory</a>.
 - April 2024: Defended <a href="https://www.proquest.com/docview/3053909519?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses" style="color:blue;">PhD Thesis</a>! Graduated from UW Madison. 
 - Oct 2023: Presented at SES held at Minneapolis, MN
