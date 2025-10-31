@@ -15,7 +15,7 @@ author_profile: true
 </object>
 -->
 
-- June 2025: Selected for Mathematical Problems in Industry (MPI) workshop held at Claremont Graduate University, Claremont, CA.
+- June 2025: Selected for Mathematical Problems in Industry (MPI) workshop held at Claremont Graduate University, Claremont, CA. <a href="https://www.siam.org/media/o2rfeaoy/2025kwaai_final.pdf" style="color:blue;">Final report</a>.
 - May 2025: Selected for a poster presentation at ISSLS 2025 held at Atlanta, GA. 
 - April 2025: Presented at <a href="https://dcmr.udel.edu/research-symposium/" style="color:blue;">DCMR/CBER Symposium</a> at University of Delaware, Newark, DE. 
 - June 2024: Selected for Mathematical Problems in Industry (MPI) workshop held at University of Vermont, Burlington, VT. <a href="https://www.siam.org/media/r1pj5uqx/vironix_mpi2024.pdf" style="color:blue;">Final report</a>.
