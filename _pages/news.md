@@ -30,7 +30,7 @@ author_profile: true
 - Sept 2022: Won second prize for <a href="https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards" style="color:blue;">best poster</a> at the inaugural PANTHER Conference held at UW Madison.
 - June 2022: Presented at USNCTAM19 held at Austin, TX
 - June 2022: Selected for <a href="https://business.wisc.edu/centers/weinert/blog/morgridge-entrepreneurial-bootcamp-meb-2022/" style="color:blue;">Morgridge Entrepreneurial Bootcamp</a>.
-- Dec 2021: Independent study on <a href="files\math-703-project.pdf" style="color:blue;">moving boundary physics</a>.
+- Dec 2021: Independent study on <a href="https://github.com/auddya/auddya.github.io/blob/master/files/math-703-project.pdf" style="color:blue;">moving boundary physics</a>.
 - Oct 2021: Published <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0246" style="color:blue;">article</a>. 
 - July 2021: Presented virtually at USNCCM16 and got a conference award!. 
 - May 2020: Obtained an MS in Mechanical Engineering, UW Madison. 
