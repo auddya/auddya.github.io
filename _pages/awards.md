@@ -11,10 +11,12 @@ permalink: /awards/
 author_profile: true
 ---
 
-1. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison, (September 2023) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards-1)
-2. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison, (September 2022) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards)
-3. 16th U S National Congress on Computational Mechanics Conference Award ,Virtual Conference (July 2021)
-4. Chester E. & Flora Jane LeRoy Fellowship Award, Department of Mechanical Engineering, UW Madison (2018-2019)
+1. Travel award for Society of Industrial and Applied Mathematics-Mathematical Problems in Industry (SIAM-MPI) Workshop,Claremont Graduate University, CA (June 2025) 
+2. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison. (September 2023) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards-1)
+3. 2nd Prize Winner, Poster Presentation, Office of Naval Research (ONR) and PANTHER, University of Wisconsin-Madison. (September 2022) [[news]](https://www.panther.engr.wisc.edu/post/panther-workshop-poster-awards)
+4. 16th U S National Congress on Computational Mechanics Conference Award ,Virtual Conference (July 2021)
+5. Chester E. & Flora Jane LeRoy Fellowship Award, Department of Mechanical Engineering, University of Wisconsin-Madison. (2018-2019)
+6. Annual scholarship for undergraduate studies, Durgapur Steel Plant, Durgapur, India (2013-2017)
 
 -->
 
