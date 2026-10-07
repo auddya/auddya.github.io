@@ -14,6 +14,8 @@ author_profile: true
     <p>If the embedded PDF below does not load, you can <u><a href="https://drive.google.com/file/d/1ulNltb4YekZvTQdu5mvds5ZQ4aXTOgMx/preview">download it here.</p>
 </object>
 -->
+- September 2026 - Won <a href="https://www.linkedin.com/posts/the-podium-institute_sportsmedicine-sportstechnology-research-activity-7511076742065856515-W0Fz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAjQd8IBhCdOnj1GaAvApGTn0CoLn1EUNSY" style="color:blue;"> Best Young Researcher award for Early-Career Researchers within 10 years of defending PhD </a> at The Podium Conference for Sports Medicine and Technology, University of Oxford. 
+- May 2026 - <a href="https://thepodiuminstitute.ox.ac.uk/people/debabrata-auddya/" style="color:blue;">Joined</a> at The Podium Institute, University of Oxford at the <a href="https://weickenmeierlab.com/" style="color:blue;">Weickenmeier Lab</a>. 
 - November 2025 - Preprint on <a href="https://arxiv.org/abs/2511.20392" style="color:blue;"> brain multiphysics </a>  available on arXiv.
 - November 2025 - Abstract accepted in <a href="https://www.ors.org/2026annualmeeting/" style="color:blue;">Orthopaedic Research Society (ORS) 2026 Annual Meeting </a> 
 - November 2025 - Presented at <a href="https://www.ors.org/2025psrs-program/" style="color:blue;">Philadelphia Spine Research Society (PSRS) 2025 </a> at University of Delaware, Newark, DE. 
