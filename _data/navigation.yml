@@ -1,16 +1,13 @@
-# main links links
 main:
+  - title: "Research"
+    url: /#research
   - title: "Publications"
     url: /publications/
-
-  - title: "Resume"
-    url: /files/Resume.pdf
-
   - title: "Talks"
     url: /talks/
-
   - title: "Awards"
     url: /awards/
-
   - title: "News"
     url: /news/
+  - title: "Résumé ↗"
+    url: /files/Resume.pdf

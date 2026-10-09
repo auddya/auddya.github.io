@@ -1,22 +1,26 @@
 ---
+layout: default
+title: "Debabrata Auddya | Computational Mechanics"
 permalink: /
-title: "Welcome to this space!"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
-As a computational mechanics scientist, I specialize in developing and applying advanced numerical methods to tackle complex challenges in biomechanics, additive manufacturing, and multiphysics.
-
-Currently, I work as a postdoctoral research assistant at the University of Oxford (Podium Institute for Sports Medicine and Technology). Previously, I was a postdoctoral research associate at the University of Delaware with the Multi-Scale Fiber-Reinforced Tissue Biomechanics Laboratory. 
-
-I completed my doctoral studies from the University of Wisconsin-Madison at the Computational Mechanics and Multiphysics Group (CMMG) under Prof Shiva Rudraraju in May 2024. The title of my thesis was "Multiphysics Modeling of Deformation in Biomembranes and the Neuronal Microenvironment, With Application to Traumatic Brain Injury".    
-
-
-## Education 
-
-- PhD, Major: Mechanical Engineering & Minor: Mathematics,  University of Wisconsin-Madison (2024)
-- MS, Mechanical Engineering, University of Wisconsin-Madison (2020)
-- BTech, Mechanical Engineering, National Institute of Technology, Durgapur, India (2017)
+<div class="lux-home">
+  <section class="lux-hero" aria-labelledby="hero-title">
+    <div class="lux-hero__glow" aria-hidden="true"></div>
+    <div class="lux-hero__content">
+      <p class="lux-eyebrow"><span class="lux-line"></span> RESEARCH AT THE INTERSECTION OF MECHANICS & LIFE</p>
+      <h1 id="hero-title">Understanding<br><em>the mechanics</em><br>of living systems<span class="lux-period">.</span></h1>
+      <p class="lux-hero__intro">I'm <strong>Debabrata Auddya</strong>, a computational mechanics scientist developing numerical methods to explore biomechanics, multiphysics and complex materials.</p>
+      <div class="lux-actions"><a class="lux-button lux-button--filled" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="lux-button lux-button--outline" href="{{ '/files/Resume.pdf' | relative_url }}">View résumé <span aria-hidden="true">↗</span></a></div>
+      <div class="lux-hero__bottom"><span>POSTDOCTORAL RESEARCH ASSISTANT · UNIVERSITY OF OXFORD</span><a href="#about" aria-label="Scroll to about section">SCROLL TO EXPLORE <span aria-hidden="true">↓</span></a></div>
+    </div>
+    <div class="lux-hero__visual"><div class="lux-portrait-wrap"><img src="{{ '/images/Auddya_Debabrata_03.jpg' | relative_url }}" alt="Portrait of Debabrata Auddya" loading="eager"></div><div class="lux-portrait-caption">DEBABRATA AUDDYA <span> / </span> OXFORD, UK</div></div>
+  </section>
+  <section class="lux-section lux-about" id="about" aria-labelledby="about-heading"><div class="lux-section__heading"><span class="lux-kicker">01 / ABOUT</span><h2 id="about-heading">A curiosity for<br><em>what lies beneath.</em></h2></div><div class="lux-about__text"><p>As a computational mechanics scientist, I develop and apply advanced numerical methods to understand complex challenges in biomechanics, additive manufacturing, and multiphysics.</p><p>I am currently a postdoctoral research assistant at the <strong>University of Oxford</strong>, working with the Podium Institute for Sports Medicine and Technology. Previously, I was a postdoctoral research associate at the University of Delaware's Multi-Scale Fiber-Reinforced Tissue Biomechanics Laboratory.</p><a class="lux-text-link" href="{{ '/files/Resume.pdf' | relative_url }}">MORE ABOUT MY BACKGROUND <span aria-hidden="true">↗</span></a></div></section>
+  <section class="lux-section lux-research" id="research" aria-labelledby="research-heading"><div class="lux-section__top"><div><span class="lux-kicker">02 / RESEARCH</span><h2 id="research-heading">The questions<br><em>that drive my work.</em></h2></div><p>From biological membranes to complex multiphysics systems, I use computational tools to investigate how materials and living systems respond to the world around them.</p></div><div class="lux-research__grid"><article class="lux-research__card"><span class="lux-card__number">01</span><div class="lux-card__symbol" aria-hidden="true">◎</div><h3>Computational<br>biomechanics</h3><p>Understanding the mechanics of biological tissues and membranes through numerical simulation.</p></article><article class="lux-research__card"><span class="lux-card__number">02</span><div class="lux-card__symbol" aria-hidden="true">⌁</div><h3>Multiphysics<br>modeling</h3><p>Exploring the coupling between deformation, transport, and biological processes.</p></article><article class="lux-research__card"><span class="lux-card__number">03</span><div class="lux-card__symbol" aria-hidden="true">◇</div><h3>Numerical<br>methods</h3><p>Developing computational frameworks for challenging mechanics problems, including finite element methods.</p></article></div></section>
+  <section class="lux-section lux-feature" aria-labelledby="feature-heading"><span class="lux-kicker">03 / SELECTED WORK</span><div class="lux-feature__inner"><div><p class="lux-feature__label">FEATURED PUBLICATION · 2021</p><h2 id="feature-heading">The intricate<br><em>language of</em><br>biomembranes.</h2><p>A three-dimensional computational framework reveals complex, non-axisymmetric biomembrane deformations governed by Kirchhoff–Love kinematics.</p><a class="lux-text-link" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0246">READ THE PAPER <span aria-hidden="true">↗</span></a></div><div class="lux-feature__art" aria-hidden="true"><div class="lux-orbit lux-orbit--one"></div><div class="lux-orbit lux-orbit--two"></div><div class="lux-orbit lux-orbit--three"></div><div class="lux-orbit__core"></div></div></div><a class="lux-all-link" href="{{ '/publications/' | relative_url }}">VIEW ALL PUBLICATIONS <span aria-hidden="true">↗</span></a></section>
+  <section class="lux-section lux-journey" aria-labelledby="journey-heading"><div class="lux-section__heading"><span class="lux-kicker">04 / JOURNEY</span><h2 id="journey-heading">A path of<br><em>exploration.</em></h2></div><div class="lux-timeline"><div class="lux-timeline__item"><span>NOW</span><div><h3>University of Oxford</h3><p>Postdoctoral Research Assistant · Podium Institute for Sports Medicine and Technology</p></div><span class="lux-timeline__arrow" aria-hidden="true">↗</span></div><div class="lux-timeline__item"><span>PREVIOUSLY</span><div><h3>University of Delaware</h3><p>Postdoctoral Research Associate · Tissue Biomechanics</p></div><span class="lux-timeline__arrow" aria-hidden="true">↗</span></div><div class="lux-timeline__item"><span>2024</span><div><h3>University of Wisconsin–Madison</h3><p>PhD, Mechanical Engineering · Minor in Mathematics</p></div><span class="lux-timeline__arrow" aria-hidden="true">↗</span></div><div class="lux-timeline__item"><span>2017</span><div><h3>National Institute of Technology, Durgapur</h3><p>BTech, Mechanical Engineering</p></div><span class="lux-timeline__arrow" aria-hidden="true">↗</span></div></div></section>
+  <section class="lux-contact" aria-labelledby="contact-heading"><span class="lux-kicker">05 / CONNECT</span><h2 id="contact-heading">Let's explore<br><em>what's possible.</em></h2><p>Interested in research, collaboration, or an exchange of ideas?</p><a class="lux-button lux-button--filled" href="mailto:{{ site.author.email }}">GET IN TOUCH <span aria-hidden="true">↗</span></a></section>
+</div>
